@@ -16,6 +16,8 @@ fundamentals, not just collecting a certificate.
 - [Module 00 - Meeting Packet Tracer](modules/module_00.md): first
   look at the app.
 
+- [Labs](labs/) will have some notes of my progress too.
+
 ## Progress
 
 - [x] Enrolled, Packet Tracer running
