@@ -1,6 +1,6 @@
 # Create a Simple Network ([file](./create-simple-network.pka))
 
-First lab: one PC, one laptop, wired up and talking.
+First lab: one PC, one laptop, wired up and interacting.
 
 | Device | IPv4 Address       | Subnet Mask   | Default Gateway |
 |--------|--------------------|---------------|-----------------|
