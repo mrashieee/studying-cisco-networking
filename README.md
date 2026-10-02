@@ -19,7 +19,7 @@ fundamentals, not just collecting a certificate.
 ## Progress
 
 - [x] Enrolled, Packet Tracer running
-- [ ] Course 1: Getting Started with Cisco Packet Tracer
+- [x] Course 1: Getting Started with Cisco Packet Tracer
 - [ ] Course 2: Networking Basics
 
 ## Linux parallels
