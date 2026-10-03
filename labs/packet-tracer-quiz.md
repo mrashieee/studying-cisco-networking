@@ -23,31 +23,21 @@ about 2 minutes.
 ## Findings
 
 Everything sits on 172.16.0.x with mask 255.255.255.0, so PC,
-
 laptop, and gateway are all on the same subnet. That's why the
-
 answers hang together: .252 and .254 only make sense next to each
-
 other.
 
 ## What a default gateway actually is
 
 The gateway is the router's own address on your network - the door
-
 out. When your PC wants an address outside its subnet, it doesn't
-
 try to find it directly. It hands the packet to the gateway and the
-
 router takes it from there.
 
 That's also why no device ever gets the gateway's address. It's
-
 already taken - it belongs to the router's interface on that LAN.
 
 Give it to a PC and you get two machines claiming one IP, which
-
 breaks both (same as any duplicate IP). DHCP knows this too, which
-
 is why the pool it hands out skips the gateway (usually .1 or .254
-
 is reserved for it).

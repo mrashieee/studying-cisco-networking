@@ -8,15 +8,24 @@ fundamentals, not just collecting a certificate.
 ## What's here
 
 - [`modules/`](modules/) - my notes, one file per module
-- [`labs/`](labs/) - Packet Tracer `.pkt` files + a short note per lab
+- [`labs/`](labs/) - Packet Tracer `.pka` files + a short note per lab
   on what I did and what broke
 
 ## Notes
 
-- [Module 00 - Meeting Packet Tracer](modules/module_00.md): first
+- [Module 00 - Meeting Packet Tracer](modules/module-00.md): first
   look at the app.
+- [Module 01 - Communications in a Connected World](modules/module-01.md):
+  network types, data and bits, bandwidth vs throughput vs latency.
+- [Module 02 - Network Components, Types, and Connections](modules/module-02.md):
+  clients and servers, P2P, network components, ISP services.
 
-- [Labs](labs/) will have some notes of my progress too.
+## Labs
+
+- [Create a Simple Network](labs/create-simple-network.md): one PC and
+  one laptop wired up - addressing table and DHCP notes.
+- [Packet Tracer Quiz](labs/packet-tracer-quiz.md): intro-course final,
+  100% first try, plus what a default gateway actually is.
 
 ## Progress
 

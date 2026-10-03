@@ -1,4 +1,4 @@
-# Create a Simple Network ([file](./create-simple-network.pka))
+# Create a Simple Network ([create-simple-network.pka](./create-simple-network.pka))
 
 First lab: one PC, one laptop, wired up and interacting.
 

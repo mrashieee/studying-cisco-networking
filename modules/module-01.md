@@ -3,11 +3,12 @@
 ## Network Types
 
 - Home Networks: Computers and Internet.
-- SOHO(Small Office/Home Office) Networks: Connect to a corporate
+- SOHO (Small Office/Home Office) Networks: Connect to a corporate
   network and/or access resources.
-- Medium to Large Networks: Branches with connected Hundreds or
-  Thousands of Hosts(computers).
-- World Wide Network: Network of millions of computers world wide.
+- Medium to Large Networks: corporate branches connecting hundreds or
+  thousands of hosts (computers).
+- Wide Area Network (WAN): network of millions of computers across the
+  world (e.g. the Internet).
 
 ## Data Transmission
 
@@ -21,17 +22,17 @@
 - **Inferred Data**: Data that is predicted from other available data.
 - **Observed Data**: Data that is collected by observing our
   behaviour, actions or activities.
-  
+
 ### The Bit
 
 Represents smallest piece of data. The term bit is an abbreviation of
-"binary digit". collection of 8 bits are known as a byte.
+"binary digit". A collection of 8 bits is known as a byte.
 
 - **ASCII**: Old computers used American Standard Code for Information
   Interchange, 7-bit binary numbers that represented Numbers,
   Alphabets, and Special Characters. There is also **Extended ASCII**
   which is 8-bit binary numbers.
-  
+
 - **UTF-8**: This format is mostly used nowadays in modern systems,
  has variable width (1-4 bytes). Its first 128 are plain ASCII, which
  is why ASCII text works everywhere.
@@ -83,9 +84,7 @@ entire network.
 It is the time (including delays) of data to travel from one place to
 another. Latency is measured in milliseconds (ms).
 
-Done: 10:18:30, 3rd october 2026
-
-### Assessment Questions
+## Assessment Questions
 
 1. What is the internet?  
    Ans: A network of networks.
