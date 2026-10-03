@@ -128,9 +128,9 @@ Done: 10:18:30, 3rd october 2026
 10. **What measurement is used to indicate thousands of bits per
   second?**
 
-   Ans: Kbps.
+    Ans: Kbps.
   
 11. **What type of network must a home user access in order to do
   online shopping?**
 
-   Ans: the internet.
+    Ans: the internet.
