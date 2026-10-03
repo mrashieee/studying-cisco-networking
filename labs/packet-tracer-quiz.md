@@ -1,4 +1,4 @@
-# Packet Tracer Quiz ([file](./packet-tracer-quiz.pka))
+# Packet Tracer Quiz ([packet-tracer-quiz.pka](./packet-tracer-quiz.pka))
 
 Final exam for the intro course. Scored 100% on the first try in
 about 2 minutes.
