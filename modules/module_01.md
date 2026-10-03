@@ -88,38 +88,49 @@ Done: 10:18:30, 3rd october 2026
 ## Assessment Questions
 
 1. **What is the internet?**
-   Ans: A network of networks.
+
+Ans: A network of networks.
 
 2. **What is an example of a binary value from everyday life?**
-   Ans: A simple light switch.
+
+Ans: A simple light switch.
   
 3. **Which category of network components includes wires and cables
   used in a wired network?**
-  Ans: Media.
+
+Ans: Media.
   
 4. **What type of device is able to create physical movement?**
-   Ans: Actuator.
+
+Ans: Actuator.
   
 5. **What are three options for signal transmission on a network?**
-   Ans: Electrical Signals, Optical Signals, and Wireless signals.
+
+Ans: Electrical Signals, Optical Signals, and Wireless signals.
   
 6. **Who owns the internet?**
-   Ans: No one person or group.
+
+Ans: No one person or group.
   
 7. **Which type of connected device is placed on objects to track and
   monitor them?**
-  Ans: RFID tags.
+
+Ans: RFID tags.
   
 8. **A byte consists of how many bits?**
-   Ans: 1 byte = 8 bits.
+
+Ans: 1 byte = 8 bits.
   
 9. **Which two numbers are possible values of a bit?**
-   Ans: 0 and 1.
+
+Ans: 0 and 1.
   
 10. **What measurement is used to indicate thousands of bits per
   second?**
-  Ans: Kbps.
+
+Ans: Kbps.
   
 11. **What type of network must a home user access in order to do
   online shopping?**
-  Ans: the internet.
+
+Ans: the internet.
