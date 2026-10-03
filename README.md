@@ -19,6 +19,8 @@ fundamentals, not just collecting a certificate.
   network types, data and bits, bandwidth vs throughput vs latency.
 - [Module 02 - Network Components, Types, and Connections](modules/module-02.md):
   clients and servers, P2P, network components, ISP services.
+- [Module 03 - Wireless and Mobile Networks](modules/module-03.md):
+  GSM to 5G, Wi-Fi, Bluetooth, NFC, GPS, connecting phones.
 
 ## Labs
 
