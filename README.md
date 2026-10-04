@@ -32,6 +32,8 @@ fundamentals, not just collecting a certificate.
   one laptop wired up - addressing table and DHCP notes.
 - [Packet Tracer Quiz](labs/packet-tracer-quiz.md): intro-course final,
   100% first try, plus what a default gateway actually is.
+- [Configure a Wireless Router and Clients](labs/module-4-setup-home-router.md):
+  wired a house, router GUI setup, wireless LAN, all online.
 
 ## Progress
 
