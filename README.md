@@ -21,6 +21,10 @@ fundamentals, not just collecting a certificate.
   clients and servers, P2P, network components, ISP services.
 - [Module 03 - Wireless and Mobile Networks](modules/module-03.md):
   GSM to 5G, Wi-Fi, Bluetooth, NFC, GPS, connecting phones.
+- [Module 04 - Build a Home Network](modules/module-04.md):
+  router ports, wired and wireless tech, Wi-Fi settings, home lab.
+- [Checkpoint Exam 1](modules/checkpoint-exam-1.md): modules 1-4
+  review questions.
 
 ## Labs
 
