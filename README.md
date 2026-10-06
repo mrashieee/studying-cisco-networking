@@ -31,6 +31,8 @@ fundamentals, not just collecting a certificate.
   fiber, picking the right cable.
 - [Module 07 - The Access Layer](modules/module-07.md): Ethernet
   frame fields, encapsulation, switches and MAC tables.
+- [Checkpoint Exam 2](modules/checkpoint-exam-2.md): modules 5-7
+  review questions.
 
 ## Labs
 

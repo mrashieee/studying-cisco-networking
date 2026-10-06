@@ -1,4 +1,4 @@
-# Exam
+# Checkpoint Exam
 
 1. How many unique values are possible using a single binary digit?  
    Ans: 2
