@@ -27,6 +27,8 @@ fundamentals, not just collecting a certificate.
   review questions.
 - [Module 05 - Communication Principles](modules/module-05.md):
   protocols, message rules, standards, OSI and TCP/IP models.
+- [Module 06 - Network Media](modules/module-06.md): copper, coax,
+  fiber, picking the right cable.
 
 ## Labs
 
