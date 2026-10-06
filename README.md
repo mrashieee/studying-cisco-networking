@@ -29,6 +29,8 @@ fundamentals, not just collecting a certificate.
   protocols, message rules, standards, OSI and TCP/IP models.
 - [Module 06 - Network Media](modules/module-06.md): copper, coax,
   fiber, picking the right cable.
+- [Module 07 - The Access Layer](modules/module-07.md): Ethernet
+  frame fields, encapsulation, switches and MAC tables.
 
 ## Labs
 
