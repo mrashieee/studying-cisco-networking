@@ -1,4 +1,4 @@
-# Configure a Wireless Router and Clients ([file](./module-4-setup-home-router.pka))
+# Configure a Wireless Router and Clients ([Setup Home Router](./module-4-setup-home-router.pka))
 
 Full activity: wire a house, configure the router, get everyone
 online.
