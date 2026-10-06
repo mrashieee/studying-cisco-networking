@@ -23,6 +23,8 @@ fundamentals, not just collecting a certificate.
   GSM to 5G, Wi-Fi, Bluetooth, NFC, GPS, connecting phones.
 - [Module 04 - Build a Home Network](modules/module-04.md):
   router ports, wired and wireless tech, Wi-Fi settings, home lab.
+- [Module 05 - Communication Principles](modules/module-05.md):
+  protocols, message rules, standards, OSI and TCP/IP models.
 - [Checkpoint Exam 1](modules/checkpoint-exam-1.md): modules 1-4
   review questions.
 
