@@ -33,6 +33,8 @@ fundamentals, not just collecting a certificate.
   frame fields, encapsulation, switches and MAC tables.
 - [Checkpoint Exam 2](modules/checkpoint-exam-2.md): modules 5-7
   review questions.
+- [Module 08 - The Internet Protocol](modules/module-08.md): why
+  addresses exist, octets, network vs host, masks.
 
 ## Labs
 
@@ -42,6 +44,8 @@ fundamentals, not just collecting a certificate.
   100% first try, plus what a default gateway actually is.
 - [Configure a Wireless Router and Clients](labs/module-4-setup-home-router.md):
   wired a house, router GUI setup, wireless LAN, all online.
+- [Connect to a Web Server](labs/module-8-connect-to-a-web-server.md):
+  ping -4 shows a site's IPv4 address.
 
 ## Progress
 
